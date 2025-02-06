@@ -34,12 +34,8 @@ body{
 main{
     display: flex;
     justify-content: center;
-           
-}
+}          
 
-
-
-  
 
 .details {
     min-width: 375px;
@@ -193,7 +189,6 @@ img {
         border-radius: 12px;
     }
 }
-   
-  
+    
     
 }
